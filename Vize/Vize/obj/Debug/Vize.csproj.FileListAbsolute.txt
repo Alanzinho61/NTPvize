@@ -5,3 +5,4 @@ C:\Users\User\Desktop\NTPvize\Vize\Vize\obj\Debug\Vize.csprojAssemblyReference.c
 C:\Users\User\Desktop\NTPvize\Vize\Vize\obj\Debug\Vize.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\NTPvize\Vize\Vize\obj\Debug\Vize.exe
 C:\Users\User\Desktop\NTPvize\Vize\Vize\obj\Debug\Vize.pdb
+C:\Users\User\Desktop\NTPvize\Vize\Vize\bin\Debug\Haberturk.xml
